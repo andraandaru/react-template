@@ -1,3 +1,5 @@
+import "../public/styles.css"
+
 const App = () => {
   return (
     <div>
